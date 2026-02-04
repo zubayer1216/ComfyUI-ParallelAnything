@@ -42,7 +42,7 @@ Allows you to build a `DEVICE_CHAIN`. You can chain multiple GPUs together or us
 
 <img width="2054" height="867" alt="image" src="https://github.com/user-attachments/assets/52c1da42-07e3-4cda-8545-96b953a91266" />
 
-- Test Case with batch_Size = 21
+- Test Case with batch_Size = 21 (Z_Image Turbo)
   - Single 3090 (26.00s/it)
 
     <img width="1532" height="55" alt="image" src="https://github.com/user-attachments/assets/5cbc348d-fb79-4ea8-b8b5-844ccf2fdb5b" />
