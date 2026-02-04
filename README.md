@@ -43,12 +43,19 @@ Allows you to build a `DEVICE_CHAIN`. You can chain multiple GPUs together or us
 <img width="2054" height="867" alt="image" src="https://github.com/user-attachments/assets/52c1da42-07e3-4cda-8545-96b953a91266" />
 
 - Test Case with batch_Size = 21 (Z_Image Turbo) (1024x1024)
+  - PC Specs:
+    - AMD Ryzen™ 5 3600
+    - ASRock B450M Pro4
+    - 128.0 GiB
+    - GEN3@16x PCIe (V100) + GEN2@4x PCIe (3090))
+    - OS: Linux
+      
   - Single 3090 (26.00s/it)
 
     <img width="1532" height="55" alt="image" src="https://github.com/user-attachments/assets/5cbc348d-fb79-4ea8-b8b5-844ccf2fdb5b" />
     
-  - V100 + 3090 (13.72s/it) (My old PC (Ryzen ) with GEN3@16x PCIe (V100) + GEN2@4x PCIe (3090))
-
+  - V100 + 3090 (13.72s/it)
+    
     <img width="1527" height="49" alt="image" src="https://github.com/user-attachments/assets/319c4995-d35d-4a93-975b-272a7c3657cc" />
 
 ---
