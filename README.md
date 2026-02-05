@@ -55,7 +55,7 @@ Allows you to build a `DEVICE_CHAIN`. You can chain multiple GPUs together or us
 
     <img width="1532" height="55" alt="image" src="https://github.com/user-attachments/assets/5cbc348d-fb79-4ea8-b8b5-844ccf2fdb5b" />
     
-  - V100 + 3090 (13.72s/it)
+  - V100 + 3090 (12.91s/it)
     
     <img width="1517" height="49" alt="image" src="https://github.com/user-attachments/assets/eaae446b-5128-442b-bfc6-3fbf31d10ec7" />
 
