@@ -174,6 +174,8 @@ Load Checkpoint → Load LoRA → [Parallel Anything] → KSampler
 If you encounter a **RuntimeError** regarding "Inference Tensors":
 * Ensure you are using a **Batch Size** large enough to split.
 * The node uses a "Deep Detach" strategy (`.detach().clone()`) to satisfy the version counter requirements of the KSampler.
+* if you see the message "RuntimeError: Expected all tensors to be on the same device, but got mat1 is on cuda:0, different from other tensors on cuda:1 (when checking argument in method wrapper_CUDA_addmm)
+" after changing the percentage of the GPU'S for the second run. restart comfyui
 
 ### Slower than single GPU
 #### Common causes:
