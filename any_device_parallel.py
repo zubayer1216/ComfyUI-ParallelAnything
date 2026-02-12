@@ -1238,6 +1238,10 @@ class ParallelAnything:
                     stream = task['stream']
                     
                     try:
+                        # Set device for this thread
+                        if dev.type == 'cuda':
+                            torch.cuda.set_device(dev)
+                        
                         # Move inputs to device
                         x_in = move_to_device(x_chunks[task_idx], dev)
                         t_in = move_to_device(t_chunks[task_idx], dev)
